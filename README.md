@@ -2,7 +2,7 @@
 
 ## How to Run
 In the linux bash shell,
-- sudo docker-compose up --build
+- sudo docker-compose up --build <br>
 and there you go !
 
 ## Description
